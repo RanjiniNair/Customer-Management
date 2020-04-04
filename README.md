@@ -4,9 +4,11 @@ Maven Project based on maven-archtype-webapp 1.0
 mySQL 8.0.19
 
 Login username:admin
+
 Login Password:qwerty
 
 Used Database sql query:
+
 create database project;
 use project;
 create table customer(id int not null auto_increment,
