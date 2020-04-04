@@ -2,6 +2,7 @@ This is my Training Project build on Eclipse IDE for Enterprise Java Developers.
 with jdk 1.8 
 Maven Project based on maven-archtype-webapp 1.0 
 mySQL 8.0.19
+
 Login username:admin
 
 Login Password:qwerty
